@@ -6,6 +6,11 @@
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">&nbsp;</h1>
                         <p class="intro-text">{{ content }}</p>
+												<ul class="list-inline social-buttons">
+													{% for network in page.social %}
+													<li><a target="_new-{{ network.title }}" href="{{ network.url }}"><i class="fa fa-{{ network.title }} fa-fw"></i></a></li>
+													{% endfor %}
+												</ul>
                         {% capture title %}{% for page in site.pages | sort: "title" %}{% if forloop.first %}{{ page.title }}{% endif %}{% endfor %}{% endcapture %}
                         <a href="#{{ title }}" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>

@@ -338,13 +338,13 @@ ul.social-buttons {
 
 ul.social-buttons li a {
     display: block;
-    width: 40px;
-    height: 40px;
+    width: 70px;
+    height: 70px;
     border-radius: 100%;
-    font-size: 20px;
-    line-height: 40px;
+    font-size: 35px;
+    line-height: 70px;
     outline: 0;
-    /* color: #fff; */
+    color: #fff;
     background-color: #222;
 
     -webkit-transition: all .3s;
@@ -355,8 +355,8 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    color: #222;
-    background-color: #fec503;
+    /* color: #222; */
+    background-color: #414d59;
 }
 
 footer {

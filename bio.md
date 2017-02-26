@@ -1,9 +1,9 @@
 ---
 layout: null
 section-type: default
-title: About
+title: Bio 
 ---
-## About
+## Bio
 
 Mike is passionate about how technology can transform education, and consults on technology for schools and organizations around the world. He is a constant learner and explores electronics, the maker movement and artificial intelligence. Comfortable with all levels of technology, he's just as happy discussing the future of work as he is debating the merits of Vim vs. Sublime.  
 

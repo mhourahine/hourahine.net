@@ -1,1 +1,13 @@
+title: Mike Hourahine
+email: mike@hourahine.net
+description: >
+  About Mike...  why you're here...
+baseurl: "/"
+twitter_username: mhourahine
+github_username: mhourahine
+
+#build settings
 theme: minima
+exclude:
+  Gemfile
+  Gemfile.lock

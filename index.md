@@ -11,5 +11,5 @@ social:
   - title: facebook
     url: https://www.facebook.com/mhourahine
 ---
-## Educational Technology leader, software developer, and lifelong learner. 
+## Educational Technology entrepreneur, software developer, and lifelong learner. 
 
